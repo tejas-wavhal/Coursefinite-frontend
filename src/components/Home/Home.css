@@ -1,0 +1,27 @@
+.container2{
+  margin: 0px auto;
+}
+
+.container2 video {
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  width: 60%;
+  border-radius: 5px;
+  margin: 30px auto;
+  outline: none;
+}
+
+.container video {
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  width: 80%;
+  border-radius: 5px;
+  margin: 30px auto;
+  outline: none;
+}
+
+@media screen and (max-width:600px) {
+  .container2 video {
+    width: 100%;
+  }
+}
+
+

@@ -1,0 +1,5 @@
+.active{
+  text-decoration: underline 3px;
+  font-weight: 500;
+  transition: all ease-in-out;
+}
